@@ -1,0 +1,54 @@
+.background{
+    position: relative;
+    width: 759px;
+    height: 504px;
+
+    background: #FFFFFF;
+}
+.text-header{
+    position: absolute;
+    width: 353px;
+    height: 39px;
+    left: 227px;
+    top: 106px;
+
+    font-family: Abhaya Libre ExtraBold;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 110%;
+    /* or 40px */
+
+    display: flex;
+    align-items: center;
+
+    /* 2 */
+
+    color: #212353;
+}
+.input{
+    position: absolute;
+    width: 311px;
+    height: 44px;
+    left: 235px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;    
+}
+.input1{
+    top: 168px;
+}
+.input2{
+    top: 218px;
+}
+.btn{
+    position: absolute;
+    width: 311px;
+    height: 44px;
+    left: 235px;
+    top: 327px;
+    background: #51BFD0;
+    border-radius: 30px;
+}
